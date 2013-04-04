@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: be.lreenaers.mirr0r.Mirror
+Name: be/lreenaers/mirr0r/
+Specification-Vendor: code.google.com/p/mirr0r
+Specification-Version: 1.0

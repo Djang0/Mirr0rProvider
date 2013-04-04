@@ -1,0 +1,24 @@
+<?xml version="1.0" ?> 
+<info>
+<title>Mirr0r</title>
+<version>1.0, built April 8 2010</version>
+
+<description>
+The application provides a data to XML mapping facility. Simply associate you data columns to XML elements / attributes and then serialize to XML... Done!
+
+Project works with few standards such as Dublin Core, OAI-PMH, SPECTRUM... If you need a specific schema to be developed ask us to do it. The Source is open so you can do it yourself if you want.
+</description>
+<copyright>2010, Ludovic Reenaers</copyright>
+<license>GPL GNU Public License V.2, see LICENSE-MIRR0R.txt</license>
+
+<support>
+Introduce Bugs or feature requests at:
+	http://code.google.com/p/mirr0r/issues/list
+</support>
+<web-site>http://code.google.com/p/mirr0r</web-site>
+
+<author>
+<name>Ludovic Reenaers (primary)</name>
+</author>
+
+</info>
